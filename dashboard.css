@@ -1,0 +1,44 @@
+.icon{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 13px;
+    left: 50px;
+    
+    }
+    
+.covihelp
+{
+     position: absolute;
+    width: 256px;
+    height: 49px;
+    left: 118px;
+    top: 0px;
+        
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 31px;
+    line-height: 36px;
+        
+    color: #000000;
+        
+}
+.l1{
+    position: absolute;
+        width: 2px;
+        height: 1050px;
+        left: 303px;
+        top: 0px;
+        
+        background: #ECECEC;
+}
+.l2{
+ position: relative;   
+width: 2px;
+height: 1295.05px;
+top: 10px;
+
+background: #ECECEC;
+transform: matrix(0, -1, -1, 0, 0, 0);
+}

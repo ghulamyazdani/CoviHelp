@@ -1,0 +1,203 @@
+body{
+    overflow-x: auto;
+  background: url(./Vector1.png) no-repeat top center/cover;
+}
+.back{
+    position: absolute;
+width: 120px;
+height: 50px;
+left: 1180px;
+top: 25px;
+
+background: #A7DCFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 99px;
+}
+.covihelp{
+position: absolute;
+width: 256px;
+height: 49px;
+left: 118px;
+top: 0px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 31px;
+line-height: 36px;
+
+color: #000000;
+
+}
+.icon{
+position: absolute;
+width: 40px;
+height: 40px;
+top: 13px;
+left: 50px;
+
+}
+/* .back{
+    position: relative;
+width: 1442px;
+height: 807px;
+left: -2px;
+top: 0px;
+
+background: #A7DCFF;
+} */
+.signup{
+    position: absolute;
+width: 130px;
+height: 40px;
+left: 1200px;
+top: 35px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 33px;
+
+color: #000000;
+
+}
+.about{
+    position: absolute;
+width: 130px;
+height: 40px;
+left: 1400px;
+top: 35px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 33px;
+
+color: #000000;
+}
+.resource{
+    position: absolute;
+width: 165px;
+height: 40px;
+left: 1600px;
+top: 35px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 33px;
+
+color: #000000;
+
+}
+.info{
+    position: absolute;
+width: 132px;
+height: 40px;
+left: 1800px;
+top: 35px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 33px;
+
+color: #000000;
+
+}
+.phone{
+    position: absolute;
+width: 505px;
+height: 520px;
+left: 1100px;
+top: 280px;
+
+}
+.writ{
+    position: absolute;
+width: 296px;
+height: 40px;
+left: 222px;
+top: 320px;
+
+font-family: Pridi;
+font-style: normal;
+font-weight: normal;
+font-size: 52px;
+line-height: 81px;
+
+color: #000000;
+
+}
+.para{
+    position: absolute;
+width: 396px;
+height: 128px;
+left: 226px;
+top: 365px;
+
+font-family: Rokkitt;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 32px;
+
+color: #000000;
+
+}
+.parbut{
+    position: absolute;
+width: 120px;
+height: 50px;
+left: 229px;
+top: 525px;
+
+background: #A7DCFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 99px;
+}
+.parsignup{
+    position: absolute;
+width: 130px;
+height: 40px;
+left: 255px;
+top: 532px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 33px;
+
+color: #000000;
+    
+
+}
+.signupmen{
+    position: absolute;
+width: 188px;
+height: 81px;
+left: 870px;
+top: 141px;
+
+font-family: Pridi;
+font-style: normal;
+font-weight: normal;
+font-size: 52px;
+line-height: 81px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.container {
+    position: absolute;
+left: 845px;
+top: 300px;
+
+  }
